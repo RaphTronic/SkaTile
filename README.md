@@ -6,7 +6,7 @@ To tame the clutter in my projects room I designed an Ikea Skadis-like slotboard
   1. interlock-able tiles to build murals without requiring each tile to be screwed to the wall
   2. option to secure the tiles to the wall via screws around the perimeter
   3. option to use M4 inserts to mount tiles back to back 
-  4. option to back light each tile (see coming post, but the tiles herein are backlight ready)
+  4. option to back light each tile (in coming post, but the 15mm-skirt tiles herein are backlight ready)
 
 Details and instructions in this post: https://raphtronic.blogspot.com/2025/12/diy-skatile-parametric-skadis-interlock.html
 
