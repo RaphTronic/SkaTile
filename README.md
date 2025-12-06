@@ -8,7 +8,7 @@ To tame the clutter in my projects room I designed an Ikea Skadis-like slotboard
   3. option to use M4 inserts to mount tiles back to back 
   4. option to back light each tile (see coming post, but the tiles herein are backlight ready)
 
-Details and instructions in this post:
+Details and instructions in this post: https://raphtronic.blogspot.com/2025/12/diy-skatile-parametric-skadis-interlock.html
 
 Feel free to copy, modify, publish, whatever.
 
